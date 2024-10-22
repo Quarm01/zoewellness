@@ -1,0 +1,21 @@
+.elementor-10780 .elementor-element.elementor-element-7c37b7c>.elementor-container>.elementor-column>.elementor-widget-wrap {
+    align-content: flex-start;
+    align-items: flex-start;
+}
+
+.elementor-10780 .elementor-element.elementor-element-7c37b7c {
+    margin-top: 0px;
+    margin-bottom: 0px;
+    padding: 0px 0px 0px 0px;
+}
+
+.elementor-10780 .elementor-element.elementor-element-3a8e023>.elementor-element-populated {
+    margin: 0px 0px 0px 0px;
+    --e-column-margin-right: 0px;
+    --e-column-margin-left: 0px;
+    padding: 0px 0px 0px 0px;
+}
+
+.elementor-10780 .elementor-element.elementor-element-014606e.xpro-widget-bg-overlay>.elementor-widget-container:before {
+    transition: background 0.3s;
+}

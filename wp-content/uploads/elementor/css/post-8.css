@@ -1,0 +1,92 @@
+.elementor-kit-8 {
+    --e-global-color-primary: #A2C448;
+    --e-global-color-secondary: #22AEEA;
+    --e-global-color-text: #333333;
+    --e-global-color-accent: #A2C448;
+    --e-global-color-4dd7a909: #666666;
+    --e-global-color-519ef14a: #999999;
+    --e-global-color-62393a4e: #000;
+    --e-global-color-725907f9: #FFF;
+    --e-global-color-eb9fbf5: #49184F;
+    --e-global-color-180a9cf: #22AEEA;
+    --e-global-typography-primary-font-family: "Roboto";
+    --e-global-typography-primary-font-size: 63px;
+    --e-global-typography-primary-font-weight: 600;
+    --e-global-typography-secondary-font-family: "Roboto";
+    --e-global-typography-secondary-font-size: 37px;
+    --e-global-typography-secondary-font-weight: 300;
+    --e-global-typography-text-font-family: "Roboto";
+    --e-global-typography-text-font-size: 20px;
+    --e-global-typography-text-font-weight: 400;
+    --e-global-typography-accent-font-family: "Roboto";
+    --e-global-typography-accent-font-size: 27px;
+    --e-global-typography-accent-font-weight: 300;
+    font-family: "Roboto", Roboto;
+    font-size: 20px;
+    font-weight: normal;
+}
+
+.elementor-kit-8 a {
+    color: #A2C448;
+}
+
+.elementor-kit-8 a:hover {
+    color: #485D11;
+}
+
+.elementor-kit-8 button,
+.elementor-kit-8 input[type="button"],
+.elementor-kit-8 input[type="submit"],
+.elementor-kit-8 .elementor-button {
+    font-family: "Roboto", Roboto;
+    font-size: 27px;
+    font-weight: bold;
+    text-transform: uppercase;
+    color: #FFFFFF;
+    background-color: #A2C448;
+    padding: 15px 030px 15px 30px;
+}
+
+.elementor-kit-8 button:hover,
+.elementor-kit-8 button:focus,
+.elementor-kit-8 input[type="button"]:hover,
+.elementor-kit-8 input[type="button"]:focus,
+.elementor-kit-8 input[type="submit"]:hover,
+.elementor-kit-8 input[type="submit"]:focus,
+.elementor-kit-8 .elementor-button:hover,
+.elementor-kit-8 .elementor-button:focus {
+    color: #FFFFFF;
+    background-color: #A2C448;
+}
+
+.elementor-section.elementor-section-boxed>.elementor-container {
+    max-width: 1366px;
+}
+
+.e-con {
+    --container-max-width: 1366px;
+}
+
+{}
+
+h1.entry-title {
+    display: var(--page-title-display);
+}
+
+@media(max-width:1024px) {
+    .elementor-section.elementor-section-boxed>.elementor-container {
+        max-width: 1024px;
+    }
+    .e-con {
+        --container-max-width: 1024px;
+    }
+}
+
+@media(max-width:649px) {
+    .elementor-section.elementor-section-boxed>.elementor-container {
+        max-width: 767px;
+    }
+    .e-con {
+        --container-max-width: 767px;
+    }
+}

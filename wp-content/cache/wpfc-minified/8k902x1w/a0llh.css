@@ -1,0 +1,133 @@
+.aux-logo-header .aux-logo-anchor {
+    max-width: 80px;
+}
+
+.aux-logo-header .aux-logo-anchor>img {
+    max-height: 85px;
+}
+
+@media screen and (min-width: 700px) {
+    .aux-framed .aux-side-frames,
+    body.aux-framed:after,
+    .aux-framed .aux-side-frames:before,
+    .aux-framed .aux-side-frames:after {
+        background-color: #111111;
+    }
+}
+
+.aux-elementor-header.aux-sticky .elementor-section-wrap>.elementor-section {
+    background-color: #FFFFFF !important;
+}
+
+.aux-top-sticky .site-header-section.aux-sticky .aux-fill .aux-menu-depth-0>.aux-item-content,
+.aux-top-sticky .site-header-section.aux-sticky .aux-header-elements,
+.aux-elementor-header.aux-sticky .elementor-section-wrap>.elementor-section>.elementor-container {
+    min-height: 80px;
+}
+
+.site-header-section .aux-header-elements:not(.aux-vertical-menu-elements),
+.site-header-section .aux-fill .aux-menu-depth-0>.aux-item-content {
+    height: 85px;
+}
+
+.site-header-section {
+    background-color: #FFFFFF;
+}
+
+.aux-vertical-menu-side {
+    background-color: #FFF;
+}
+
+.site-header-section .aux-middle .aux-menu-depth-0>.aux-item-content {
+    height: 60px;
+}
+
+.site-header-section .aux-header .aux-burger:before,
+.site-header-section .aux-header .aux-burger:after,
+.site-header-section .aux-header .aux-burger .mid-line {
+    border-color: #3d3d3d;
+}
+
+#fs-menu-search:before {
+    background-color: rgba(255, 255, 255, 0.95);
+}
+
+#top-header {
+    background-color: #FFFFFF;
+}
+
+.single-post .aux-single-post-share span::before {
+    font-size: 10px;
+}
+
+.single-post .aux-overlay-bg-hash::before {
+    opacity: 0.15;
+}
+
+.page .aux-overlay-bg-hash::before {
+    opacity: 0.5;
+}
+
+.aux-subfooter-bar {
+    background-color: #fafafa;
+}
+
+.aux-subfooter-bar {
+    border-top: 1px solid #EAEAEA;
+}
+
+.aux-subfooter {
+    background-position: center center;
+}
+
+.aux-subfooter {
+    background-size: cover;
+}
+
+.aux-subfooter {
+    background-repeat: no-repeat;
+}
+
+.aux-subfooter {
+    border-top: 1px solid #EAEAEA;
+}
+
+.aux-site-footer {
+    background-color: #1A1A1A;
+}
+
+.aux-site-footer {
+    border-top: 1px solid #EAEAEA;
+}
+
+.aux-site-footer {
+    border-top-width: 1px;
+}
+
+.single-post .aux-primary .hentry .entry-title {
+    font-family: 'Bitter';
+    color: rgb(15, 18, 20);
+    font-size: 40px;
+    font-weight: normal;
+}
+
+.single-post .hentry .entry-content {
+    font-family: 'Roboto';
+    color: rgb(111, 111, 111);
+    font-size: 18px;
+}
+
+.single-post .hentry footer.entry-meta .entry-tax {
+    font-family: 'Roboto';
+    color: rgb(137, 137, 137);
+    font-size: 17px;
+}
+
+.aux-logo-footer .aux-logo-anchor img {
+    max-height: 50px;
+}
+
+body {
+    font-family: 'Roboto';
+    font-size: 20px;
+}
